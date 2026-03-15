@@ -7,6 +7,7 @@ Test vector : a = 523, b = 1015 tìm a^-1, b^-1
 In ra từng giá trị trung gian của các bước tính số dư và nhân cho đến khi kết thúc thuật toán 
 
 Tìm nghịch đảo của a = 523
+
 r1    | r2    | q     | r     | t1    | t2    | t    
 -------------------------------------------------------
 1033  | 523   | 2     | 31    | 0     | 1     | 2    
@@ -18,6 +19,7 @@ r1    | r2    | q     | r     | t1    | t2    | t
 Nghịch đảo của 523 là: 798
 
 Tìm nghịch đảo của b = 1015
+
 r1    | r2    | q     | r     | t1    | t2    | t    
 -------------------------------------------------------
 1033  | 1015  | 3     | 16    | 0     | 1     | 3    
